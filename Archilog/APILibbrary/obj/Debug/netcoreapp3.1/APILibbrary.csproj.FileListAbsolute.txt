@@ -1,0 +1,9 @@
+D:\YNOV-PARIS-CAMPUS\PARIS YNOV CAMPUS\ARCHILOG1\Archilog\APILibbrary\bin\Debug\netcoreapp3.1\APILibbrary.deps.json
+D:\YNOV-PARIS-CAMPUS\PARIS YNOV CAMPUS\ARCHILOG1\Archilog\APILibbrary\bin\Debug\netcoreapp3.1\APILibbrary.dll
+D:\YNOV-PARIS-CAMPUS\PARIS YNOV CAMPUS\ARCHILOG1\Archilog\APILibbrary\bin\Debug\netcoreapp3.1\APILibbrary.pdb
+D:\YNOV-PARIS-CAMPUS\PARIS YNOV CAMPUS\ARCHILOG1\Archilog\APILibbrary\obj\Debug\netcoreapp3.1\APILibbrary.csprojAssemblyReference.cache
+D:\YNOV-PARIS-CAMPUS\PARIS YNOV CAMPUS\ARCHILOG1\Archilog\APILibbrary\obj\Debug\netcoreapp3.1\APILibbrary.AssemblyInfoInputs.cache
+D:\YNOV-PARIS-CAMPUS\PARIS YNOV CAMPUS\ARCHILOG1\Archilog\APILibbrary\obj\Debug\netcoreapp3.1\APILibbrary.AssemblyInfo.cs
+D:\YNOV-PARIS-CAMPUS\PARIS YNOV CAMPUS\ARCHILOG1\Archilog\APILibbrary\obj\Debug\netcoreapp3.1\APILibbrary.dll
+D:\YNOV-PARIS-CAMPUS\PARIS YNOV CAMPUS\ARCHILOG1\Archilog\APILibbrary\obj\Debug\netcoreapp3.1\APILibbrary.pdb
+D:\YNOV-PARIS-CAMPUS\PARIS YNOV CAMPUS\ARCHILOG1\Archilog\APILibbrary\obj\Debug\netcoreapp3.1\APILibbrary.csproj.CoreCompileInputs.cache
