@@ -1,9 +1,10 @@
 pipeline {
   agent any
   stages {
-    stage('message') {
+    stage('Build') {
       steps {
-        echo 'Bonjour tout le monde!'
+        echo 'hello world'
+        sh 'dotnet build Archilog.sln'
       }
     }
 
